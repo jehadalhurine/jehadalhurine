@@ -1,4 +1,14 @@
-<h1>-🎨 Frontend: Strong in HTML5, CSS3,js,react js,redux,redux with toolkit</h1>
+<h1>-🎨 Frontend: Strong in <ul>
+<li>Html</li> 
+<li>Css</li> 
+<li>JavaScript</li> 
+<li>react js </li> 
+<li>redux </li> 
+<li>redux toolkit </li> 
+
+</ul>
+
+</h1>
  <br/>
  <h2>Languages and Tools:</h2>
  <a href="https://skillicons.dev">
