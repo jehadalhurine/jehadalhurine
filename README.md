@@ -1,4 +1,4 @@
-<h1>-🎨 Frontend: Strong in <ul>
+<h1>- Frontend: <ul>
 <li>Html</li> 
 <li>Css</li> 
 <li>JavaScript</li> 
