@@ -7,10 +7,10 @@
 </ul>
 
 </h1>
-🔄 State Management: Knowledgeable in Redux for large-scale React applications.
-
+<h1>🔄 State Management: Knowledgeable in Redux for large-scale React applications.
+</h1>
  <br/>
- 💬 Communication: Effective team collaboration.
+ <h1> 💬 Communication: Effective team collaboration.</h1>
 <br/>
  <h2>Languages and Tools:</h2>
  <a href="https://skillicons.dev">
