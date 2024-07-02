@@ -14,7 +14,7 @@
 <br/>
  <h2>Languages and Tools:</h2>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,redux,c++" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,redux,bootsrap" />
   </a>
   
 
