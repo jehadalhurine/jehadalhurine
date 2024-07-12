@@ -10,6 +10,12 @@
 <h3>🔄 State Management: Knowledgeable in Redux for large-scale React applications.
 </h3>
  <br/>
+ <h1>👨‍💻 Backend: <ul>
+<li>Node js</li> 
+<li>Express js</li> 
+<li>Mongodb</li> 
+
+</ul>
  <h3> 💬 Communication: Effective team collaboration.</h3>
 <br/>
  <h2>Languages and Tools:</h2>
